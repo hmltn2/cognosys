@@ -82,7 +82,7 @@ Watch Cognosys become your friend.
 
 The results are evident from our user feedback:
 
-_Cognosys is hands-down the single best AI agent on the marketplace. I have no doubts or reservations in saying that. Julius Hamilton._
+_Cognosys is hands-down the single best AI agent on the marketplace. I have no doubts or reservations in saying that. - Julius Hamilton._
 
 _(other testimonials)_
 
