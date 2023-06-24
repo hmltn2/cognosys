@@ -2,6 +2,6 @@
 description: Welcome to Cognosys.ai
 ---
 
-# Welcome
+# 😁 Welcome
 
 Your AI adventure begins now.

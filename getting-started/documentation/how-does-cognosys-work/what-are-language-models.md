@@ -2,7 +2,7 @@
 description: A brief survey over LLMs.
 ---
 
-# What are language models?
+# 💟 What are language models?
 
 ## Language models are a type of algorithm. Here, we try to explain helpfully and clearly how they work.
 

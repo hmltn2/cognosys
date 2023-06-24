@@ -1,2 +1,2 @@
-# How does Cognosys work?
+# ⚜ How does Cognosys work?
 
