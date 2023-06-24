@@ -4,7 +4,7 @@
   * [Welcome](getting-started/welcome.md)
   * [Documentation](getting-started/documentation/README.md)
     * [What is Cognosys?](getting-started/documentation/what-is-cognosys.md)
-    * [How do I use Cognosys?](getting-started/documentation/how-do-i-use-cognosys.md)
+    * [🥑 How do I use Cognosys?](getting-started/documentation/how-do-i-use-cognosys.md)
     * [What can I use Cognosys for?](getting-started/documentation/what-can-i-use-cognosys-for.md)
     * [What should I be mindful of, when using Cognosys?](getting-started/documentation/what-should-i-be-mindful-of-when-using-cognosys.md)
     * [How does Cognosys work?](getting-started/documentation/how-does-cognosys-work/README.md)

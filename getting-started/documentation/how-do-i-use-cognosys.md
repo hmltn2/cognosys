@@ -1,8 +1,9 @@
 ---
 description: An explanation, for beginners
+coverY: 0
 ---
 
-# How do I use Cognosys?
+# 🥑 How do I use Cognosys?
 
 You use Cognosys by telling it what you want it to do. It could be a question, a task requiring completion, or just an explanation, or some thoughts you'd want to discuss. In principle, it's easy.&#x20;
 
