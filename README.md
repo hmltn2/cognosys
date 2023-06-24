@@ -52,7 +52,9 @@ and a whole ocean of general knowledge, too.
 
 Cognosys knows almost everything there is to know, on the internet.
 
-You have a whole ocean of knowledge at your fingertips. With your fingerprints on it.
+#### You have a whole ocean of knowledge at your fingertips.
+
+With your fingerprints on it.
 
 
 
@@ -66,7 +68,7 @@ _can do common or difficult tasks, like writing a Ph.D. Thesis, researching mark
 
 _help you find more time to read, or cook a recipe, when you dont have time to_
 
-_help you fix a biccyle_
+_help you fix a bicycle_
 
 _answer forum questions or online posts on stack exhange and quora_
 
@@ -74,7 +76,7 @@ _or finish that essay you got caught up on._
 
 
 
-Try it for free.
+### Try it for free.
 
 Watch Cognosys become your friend.
 
@@ -84,9 +86,9 @@ _Cognosys is hands-down the single best AI agent on the marketplace. I have no d
 
 _(other testimonials)_
 
-Your AI journey begins now.
+#### Your AI journey begins now.
 
-Dive on in to see what it's all about ->
+#### Dive on in to see what it's all about ->
 
 Dive on in to see what makes people feel this way about Cognosys ->\
 
