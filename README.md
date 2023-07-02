@@ -1,7 +1,6 @@
 ---
 description: >-
-  Cognosys.ai is your advanced, friendly & obedient AI assistant and tutor.
-  Cognosys.ai is your advanced & friendly & dutiful AI server.
+  Cognosys.ai is your advanced AI assistant.
 coverY: 0
 layout:
   cover:
@@ -19,23 +18,31 @@ layout:
     visible: true
 ---
 
-# 🏅 Getting Started
+# 🤖 Revolutionizing the AI Agent Space
 
-### AI is like a friend.
+## AI is like a friend. 🙋‍♀️
 
-_...who helps you finish difficult things, in times of need_
+### Cognosys can...
 
-_...who can brainstorm new ideas for your creative projects_
+_...helps you finish difficult tasks like job or school assignments...
 
-_...who can help you get in touch with people, by writing them better emails for you_
+_...brainstorm new ideas for creative or social projects in your personal and daily life..._
 
-_...who can help breathe life into old projects that were stalling_
+_...help you reach out snd get in touch with people by handling your communications for you..._
 
-_...who can help teach you lots of new, interesting, or useful things_
+_...optimize a plan or workflow to help you get things done smoother or more efficiently..._
 
-_... who gets things done, like communicating with people_
+# Breathe life into old projects that were stalling.
 
-_...who can teach you useful skills and important things, like_
+With no less than 6 backend models, Cognosys leads the pack in offering you powerful AI servers that punch above their weight.
+
+# Teach yourself new things.
+
+Cognosys can teach you how to sail a boat, or make a Thanksgiving dinner, or help you read a 100,000 word book.
+
+It can also write one.
+
+# Cognosys knows.
 
 * science
 * art
@@ -44,52 +51,17 @@ _...who can teach you useful skills and important things, like_
 * news
 * how to be a better writer
 * programming in Python
-* and recipes
+* recipes
 * mathematics
-* and computer programming, too
-
-and a whole ocean of general knowledge, too.
-
-Cognosys knows almost everything there is to know, on the internet.
-
-#### You have a whole ocean of knowledge at your fingertips.
-
-With your fingerprints on it.
+* computer programming
 
 
+And everything else, too.
 
-### It can write a Ph.D. thesis in 20 minutes.
+# Cognosys understands.
 
-See Cognosys in action here... (embed a video or animated diagram or something).
+Cognosys knows everything there is to know 
 
-
-
-_can do common or difficult tasks, like writing a Ph.D. Thesis, researching marketing, or composing a poem to_
-
-_help you find more time to read, or cook a recipe, when you dont have time to_
-
-_help you fix a bicycle_
-
-_answer forum questions or online posts on stack exhange and quora_
-
-_or finish that essay you got caught up on._
-
-
-
-### Try it for free.
-
-Watch Cognosys become your friend.
-
-The results are evident from our user feedback:
-
-_Cognosys is hands-down the single best AI agent on the marketplace. I have no doubts or reservations in saying that. - Julius Hamilton._
-
-_(other testimonials)_
-
-#### Your AI journey begins now.
-
-#### Dive on in to see what it's all about ->
-
-Dive on in to see what makes people feel this way about Cognosys ->\
+#### A whole ocean of knowledge at your fingertips.
 
 
