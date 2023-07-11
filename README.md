@@ -16,3 +16,18 @@ As far as I know currently, a GitBook is just a normal git repo, with three spec
 2. SECURITY.md
 3. README.md
 
+Inside the GitBook web app itself, only files that are listed, in the correct format, in SUMMARY.md, will appear in the book's table of contents (and in the book in general). So if you add files to the repo, update the SUMMARY.md file, to list them.
+
+SECURITY.md is not currently important.
+
+README is not important.
+
+Here is the documentation for GitBook to learn more:
+
+https://docs.gitbook.com/
+
+This is hopefully the GitBook URL: https://app.gitbook.com/o/oPwDAlF4MJRTj4ZhAupH/s/aDguf3hXwfqIow8wGKFp/
+
+I don't know if that URL gives editor privileges yet, but a simple pull request on GitHub should work (the repo is public, developed in the open).
+
+Thank you.
