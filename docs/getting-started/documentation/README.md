@@ -1,6 +1,0 @@
----
-description: Enter here.
----
-
-# 🌆 Documentation
-
